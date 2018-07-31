@@ -1,0 +1,10 @@
+order_hash.each do |key, value|
+if person == key 
+order == value 
+  end
+puts "What are your orders?"
+loop do 
+input = gets.chomp
+input_array = input.split ("  ")
+customer_1 = [value]
+count = 0 
